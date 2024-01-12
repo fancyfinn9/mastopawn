@@ -8,5 +8,5 @@ A Mastodon bot that posts chess puzzles
    
 ### How to run
 1. Clone the repo
-2. In main.py, swap \<put token here\> with your access token
+2. In variables.py swap <put token here> with your access token and <put instance here> with the Mastodon instance your account is on
 3. Run main.py
